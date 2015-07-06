@@ -16,6 +16,6 @@ def tag(value):
   json_response = json.loads(response.content)
   return json_response['success']
   
-for item in [ x.strip() for x in open('hackingteam_vps', 'r').readlines() ]:
+for item in [ x.strip() for x in open('hackingteam_vps.txt', 'r').readlines() ]:
   print "Classifying", item, classify(item)
   print "Tagging", item, tag(item)
