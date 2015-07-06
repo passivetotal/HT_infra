@@ -1,6 +1,6 @@
 import requests, json
 
-API_KEY = '9ebc7389571ea27228f6945532087e49b0f9cd13397f67ef23008c8ad1c54e82'
+API_KEY = '-YOUR API KEY-'
 
 def classify(value):
   url = 'https://www.passivetotal.org/api/v1/classification'
