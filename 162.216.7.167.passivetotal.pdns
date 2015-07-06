@@ -1,0 +1,11 @@
+162.216.7.167 Results
+First seen:		2015-01-14 00:00:00
+Last seen:		2015-01-14 09:31:13
+Country:		US
+Network:		162.216.7.0/24
+AS Number:		29802
+AS Name:		HVC-AS - HIVELOCITY VENTURES CORP
+Resolutions
+=>	mynewsfeeds.info 		2015-01-14 00:00:00 		2015-01-14 09:31:13
+
+{u'request_time': u'2015-07-06 10:15:35', u'success': True, u'raw_query': u'162.216.7.167', u'results': {u'sources_used': [u'dnsres', u'virustotal', u'mnemonic', u'domaintools', u'pingly', u'kaspersky', u'alienvault', u'ntotal'], u'enrichment_map': {u'mynewsfeeds.info': {u'ever_compromised': False, u'classification': u'targeted', u'tags': [{u'username': u'brandon@passivetotal.org', u'searchable': True, u'color': u'label-info', u'value': u'hackingteam', u'removable': True, u'type': u'user', u'icon': u'glyphicon-user'}], u'dynamic': False, u'value': u'mynewsfeeds.info', u'subdomains': [], u'tld': u'.info', u'primaryDomain': u'mynewsfeeds.info', u'type': u'domain'}}, u'unique_resolutions': {u'mynewsfeeds.info': 1}, u'records': [{u'source': [u'mnemonic', u'virustotal', u'kaspersky'], u'resolve': u'mynewsfeeds.info', u'lastSeen': u'2015-01-14 09:31:13', u'firstSeen': u'2015-01-14 00:00:00', u'recordHash': u'10db1bf04382ae17732853cb7d3c18dbcb3dc8d38912121cc52e7a058d752e09'}], u'first_seen': u'2015-01-14 00:00:00', u'last_seen': u'2015-01-14 09:31:13'}, u'error': None, u'result_count': 1}

@@ -1,0 +1,11 @@
+68.233.232.104 Results
+First seen:		2015-06-28 01:14:56
+Last seen:		2015-06-28 01:14:56
+Country:		US
+Network:		68.233.224.0/19
+AS Number:		29802
+AS Name:		HVC-AS - HIVELOCITY VENTURES CORP
+Resolutions
+=>	68-233-232-104.static.hvvc.us 		2015-06-28 01:14:56 		2015-06-28 01:14:56
+
+{u'request_time': u'2015-07-06 10:15:51', u'success': True, u'raw_query': u'68.233.232.104', u'results': {u'sources_used': [u'dnsres', u'virustotal', u'mnemonic', u'domaintools', u'pingly', u'kaspersky', u'alienvault', u'ntotal'], u'enrichment_map': {u'68-233-232-104.static.hvvc.us': {u'ever_compromised': False, u'classification': u'', u'tags': [], u'dynamic': False, u'value': u'68-233-232-104.static.hvvc.us', u'subdomains': [], u'tld': u'.us', u'primaryDomain': u'hvvc.us', u'type': u'domain'}}, u'unique_resolutions': {u'68-233-232-104.static.hvvc.us': 1}, u'records': [{u'source': [u'kaspersky'], u'resolve': u'68-233-232-104.static.hvvc.us', u'lastSeen': u'2015-06-28 01:14:56', u'firstSeen': u'2015-06-28 01:14:56', u'recordHash': u'd180ef51a13e318a332a1194d4e3713c3d463d819d23b8d9c0f15c4078fca39c'}], u'first_seen': u'2015-06-28 01:14:56', u'last_seen': u'2015-06-28 01:14:56'}, u'error': None, u'result_count': 1}
